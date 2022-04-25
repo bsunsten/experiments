@@ -1,3 +1,2 @@
-﻿  HelloWindow.cpp
-C:\Users\Brody\Source\Repos\OpenGLFirstProject\OpenGLFirstProject\HelloWindow.cpp(130,25): warning C4101: 'EBO': unreferenced local variable
-  OpenGLFirstProject.vcxproj -> C:\Users\Brody\Source\Repos\OpenGLFirstProject\x64\Debug\OpenGLFirstProject.exe
+﻿  Shaders.cpp
+  OpenGLFirstProject.vcxproj -> C:\Users\Brody\Source\experiments\OpenGL\OpenGLFirstProject\x64\Debug\OpenGLFirstProject.exe
